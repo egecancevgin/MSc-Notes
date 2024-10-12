@@ -20,7 +20,7 @@
   - `Kovaryans Matrisi`, birden fazla varlığın birlikte ne yönde hareket ettiklerini gösterir, Ör: THY ve ASL kovaryansı pozitif, birini portföyden çıkart ki risk azalsın.
 
 
-### Beklenen Getiri nedir ve nasıl hesaplanır, Kapital Market Doğrusu nedir?
+### Aşağıdaki grafikte Beklenen Getiri, Kapital Market Doğrusu, Sharpe Oranı nedir?
   - `Beklenen Getiri`, bir hisseden beklenen getiridir. Ör: THY'nin, %10 getiri olasılığı %40, %5 getiri olasılığı %30, %2 kayıp olasılığı %30 diyelim.
   - Beklenen Getiri = (0.4 * 0.1) + (0.3 * 0.05) - (0.3 * 0.02) = 4.9%, bu THY'nin beklenen getirisidir.
   - Eğer birden fazla hisse varsa ör: THY %5 beklenen getiri, %40 ağırlık, ASL %6 beklenen getiri, %30 ağırlık, Koç %4 beklenen getiri, %30 ağırlık diyelim.
