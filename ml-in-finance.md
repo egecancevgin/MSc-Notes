@@ -41,3 +41,6 @@
   - MVP kovaryans matrisini kullandığı için varlıklar arasında çeşitlendirme sağlar, böylece riski azaltır.
   - Ancak kovaryans matrisindeki küçük değişiklikler bile portföy optimizasyon sonuçlarını önemli ölçüde değiştirebilir, bu da sonuçları güvenilmez yapar.
   - Sadece varyansa odaklanır ve finans dünyasında likidite riski, kredi riski gibi farklı risk türlerini dikkate almaz.
+
+
+### EWP, GMVP, RPP, MDF portföyleri aralarındaki farklar nelerdir?
