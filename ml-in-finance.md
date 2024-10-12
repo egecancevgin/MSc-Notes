@@ -29,3 +29,4 @@
   - Bu doğru, X ekseni standart sapma ve Y ekseni beklenen getiri olan bir grafikte bulunur.
   - Kısacası risksiz varlık ve optimal riskli portföy kombinasyonları arasında en iyi risk-getiri dengesini gösterir.
   - Efficient Frontier, bir eğridir ve kapital market doğrusuna teğet geçer.
+  - ![](https://raw.githubusercontent.com/egecancevgin/MSc-Notes/refs/heads/main/resim.png)
