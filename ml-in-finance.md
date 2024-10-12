@@ -35,6 +35,9 @@
 
 
 ### Markowitz'in Mean Variance Portfolio'su nedir?
-  - Markowitz'in MVP'sinin tek bir objektif fonkisyonu vardır, bu da varyansın minimizasyonudur ancak belirli bir getiri sağlamalıdır.
+  - `Markowitz'in MVP'si``nin tek bir objektif fonkisyonu vardır, bu da varyansın minimizasyonudur ancak belirli bir getiri sağlamalıdır.
   - Kısıt olarak portföyün beklenen getirisi en az belirli bir değerde olmalıdır diyebiliriz, bu da dolaylı olarak getiriyi maksimize etmeye zorlar.
-  - 
+  - Beklenen getiri - varyans * lambda gibidir, lamda da risk alma derecesi faktörüdür.
+  - MVP kovaryans matrisini kullandığı için varlıklar arasında çeşitlendirme sağlar, böylece riski azaltır.
+  - Ancak kovaryans matrisindeki küçük değişiklikler bile portföy optimizasyon sonuçlarını önemli ölçüde değiştirebilir, bu da sonuçları güvenilmez yapar.
+  - Sadece varyansa odaklanır ve finans dünyasında likidite riski, kredi riski gibi farklı risk türlerini dikkate almaz.
