@@ -30,5 +30,5 @@
   - Bu doğru, X ekseni standart sapma ve Y ekseni beklenen getiri olan bir grafikte bulunur.
   - Kısacası risksiz varlık ve optimal riskli portföy kombinasyonları arasında en iyi risk-getiri dengesini gösterir.
   - Efficient Frontier, bir eğridir ve kapital market doğrusuna teğet geçer ve teğet noktası en iyi risk-getiri dengesini sağlayan portföyü gösterir.
-  - Sharpe oranı (Beklenen Getiri - Risksiz Getiri)/Standart Sapma olarak hesaplanır.
-  - 
+  - Sharpe Oranı (Beklenen Getiri - Risksiz Getiri)/Standart Sapma olarak hesaplanır.
+  - Efficient Frontier ile CML'nin kesiştiği nokta, en yüksek Sharpe Oranı'na sahip portföyü gösterir.
