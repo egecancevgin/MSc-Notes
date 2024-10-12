@@ -21,6 +21,7 @@
 
 
 ### Aşağıdaki grafikte Beklenen Getiri, Kapital Market Doğrusu, Sharpe Oranı nedir?
+  - ![](https://raw.githubusercontent.com/egecancevgin/MSc-Notes/refs/heads/main/resim.png)
   - `Beklenen Getiri`, bir hisseden beklenen getiridir. Ör: THY'nin, %10 getiri olasılığı %40, %5 getiri olasılığı %30, %2 kayıp olasılığı %30 diyelim.
   - Beklenen Getiri = (0.4 * 0.1) + (0.3 * 0.05) - (0.3 * 0.02) = 4.9%, bu THY'nin beklenen getirisidir.
   - Eğer birden fazla hisse varsa ör: THY %5 beklenen getiri, %40 ağırlık, ASL %6 beklenen getiri, %30 ağırlık, Koç %4 beklenen getiri, %30 ağırlık diyelim.
@@ -28,5 +29,4 @@
   - Kapital Market Doğrusu, piyasa portföyü ile risksiz getiri arasındaki farkın piyasa standart sapmasına bölünmesidir.
   - Bu doğru, X ekseni standart sapma ve Y ekseni beklenen getiri olan bir grafikte bulunur.
   - Kısacası risksiz varlık ve optimal riskli portföy kombinasyonları arasında en iyi risk-getiri dengesini gösterir.
-  - Efficient Frontier, bir eğridir ve kapital market doğrusuna teğet geçer.
-  - ![](https://raw.githubusercontent.com/egecancevgin/MSc-Notes/refs/heads/main/resim.png)
+  - Efficient Frontier, bir eğridir ve kapital market doğrusuna teğet geçer ve teğet noktası en iyi risk-getiri dengesini sağlayan portföyü gösterir.
