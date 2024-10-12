@@ -25,5 +25,6 @@
   - Beklenen Getiri = (0.4 * 0.1) + (0.3 * 0.05) - (0.3 * 0.02) = 4.9%, bu THY'nin beklenen getirisidir.
   - Eğer birden fazla hisse varsa ör: THY %5 beklenen getiri, %40 ağırlık, ASL %6 beklenen getiri, %30 ağırlık, Koç %4 beklenen getiri, %30 ağırlık diyelim.
   - Beklenen Getiri = (0.05 * 0.4) + (0.06 * 0.3) + (0.04 * 0.3) = %5, bu portföyün beklenen getirisidir.
-
-Kapital Market Doğrusu, piyasa portföyü ile risksiz getiri arasındaki farkın piyasa standart sapmasına bölünmesidir.
+  - Kapital Market Doğrusu, piyasa portföyü ile risksiz getiri arasındaki farkın piyasa standart sapmasına bölünmesidir.
+  - Bu doğru, X ekseni standart sapma ve Y ekseni beklenen getiri olan bir grafikte bulunur.
+  - Kısacası risksiz varlık ve optimal riskli portföy kombinasyonları arasında en iyi risk-getiri dengesini gösterir.
