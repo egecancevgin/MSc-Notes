@@ -15,8 +15,10 @@
 
 ## Korelasyon, Pearson Korelasyonu, Otokorelasyon ve Kovaryans aralarındaki farklar nelerdir?
   - `Korelasyon`, iki değişkenin birlikte nasıl değiştiğini ölçer ve -1 ile 1 arasındadır. Ör: Kişinin boyu ile kol uzunluğu korelasyonu 0.8 olabilir.
-  - `Kovaryans`, 
-  - `Pearson Korelasyonu`, doğrusal bir korelasyondur ve sadece doğrusal bakar.   
+  - `Kovaryans`, iki değişkenin aynı yönde mi zıt yönde mi hareket ettiğini ölçer. Değişkenlerin büyüklüğünden etkilenir bu yüzden kıyaslama yapmak doğru değildir.
+  - `Pearson Korelasyonu`, doğrusal bir korelasyondur ve sadece doğrusal bakar, kovaryans(a,b) / (stdspma(a)*stdspma(b)) şeklinde hesaplanır.
+  - `Otokorelasyon`, 
+  - `Kovaryans Matrisi`,
 
 
 Kapital Market Doğrusu, piyasa portföyü ile risksiz getiri arasındaki farkın piyasa standart sapmasına bölünmesidir.
