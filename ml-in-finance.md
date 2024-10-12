@@ -32,3 +32,7 @@
   - `Efficient Frontier`, bir eğridir ve kapital market doğrusuna teğet geçer ve teğet noktası en iyi risk-getiri dengesini sağlayan portföyü gösterir.
   - `Sharpe Oranı` (Beklenen Getiri - Risksiz Getiri)/Standart Sapma olarak hesaplanır.
   - Efficient Frontier ile CML'nin kesiştiği nokta, en yüksek Sharpe Oranı'na sahip portföyü gösterir.
+
+
+### Markowitz'in Mean Variance Portfolio'su nedir?
+  - 
