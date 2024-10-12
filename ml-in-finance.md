@@ -8,6 +8,9 @@ Soru: Varyans, Volatilite, Risk ve Standart Sapma aralarındaki farklar nelerdir
   - Risk, yatırımın beklenen getiriden sapma olasılığıdır ve yukarıdaki boş terimler ve başka terimler ile ölçülen oynaklıktır.
   
 Soru: Skewness, Heavy Tailness ve Kurtosis terimleri aralarındaki farklar nelerdir.
-
+  - Skewness, dağılımın asimetrik olup olmadığını ölçer, yani diyelim yüksek uç değerler fazla bu durumda sağa skewed deriz. Ör: 1.90'dan uzun çok kişi varsa.
+  - Kurtosis, dağılımın uç değerlerinin normalden yoğun olup olmadığını ölçer. Genelde herkes 1.70'lerde ise kurtosis düşüktür.
+  - Heavy Tailness, uç bölgelerde normalden daha fazla veri noktası olduğu anlamına gelir. Ör: Boyu 2.10 ve 1.40 olan normalden fazla kişi varsa.
+  - Quantile-Quantile Plot, referans çizgisinden uzaklıklar varsa heavy-tailness ve skewness belirtir.
 
 Kapital Market Doğrusu, piyasa portföyü ile risksiz getiri arasındaki farkın piyasa standart sapmasına bölünmesidir.
