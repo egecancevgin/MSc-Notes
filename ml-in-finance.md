@@ -28,3 +28,4 @@
   - Kapital Market Doğrusu, piyasa portföyü ile risksiz getiri arasındaki farkın piyasa standart sapmasına bölünmesidir.
   - Bu doğru, X ekseni standart sapma ve Y ekseni beklenen getiri olan bir grafikte bulunur.
   - Kısacası risksiz varlık ve optimal riskli portföy kombinasyonları arasında en iyi risk-getiri dengesini gösterir.
+  - Efficient Frontier, bir eğridir ve kapital market doğrusuna teğet geçer.
