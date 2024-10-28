@@ -57,4 +57,5 @@
   - Negatif kaldıraç örneği: 3000 dolar sermaye, -5 kaldıraç, 15000 dolar işlem, %10 düşüş bu durumda 1500 + 3000 = 4500 dolar yeni bakiye.
   - `Information Ratio`, yatırımın piyasaya göre ne kadar akıllıca iş yaptığını gösteren bir ölçümdür.
   - Özetle, risk alıyorsun ama bu risk sana sürekli yatırım sağlarsa iyidir yoksa şansına güvenip iş yapmak gibidir.
-  - 
+
+
