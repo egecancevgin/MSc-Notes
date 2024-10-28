@@ -44,8 +44,8 @@
 
 
 ### EWP, GMVP, RPP, MDF portföyleri aralarındaki farklar nelerdir?
-  - Equal-Weighted Portföyü, her varlığa eşit ağırlık verilen ve risk yönetimi zayıf olan ancak çeşitlendirme sağlayan bir portföydür.
-  - Global Minimum Variance Portföyü, varyansın en düşük olduğu portföydür ve bu portföyde varlıkların kovaryanslarına bakarak ağırlıklar belirlenip risk minimize edilir.
+  - `Equal-Weighted Portföyü`, her varlığa eşit ağırlık verilen ve risk yönetimi zayıf olan ancak çeşitlendirme sağlayan bir portföydür.
+  - `Global Minimum Variance Portföy'ü`, varyansın en düşük olduğu portföydür ve bu portföyde varlıkların kovaryanslarına bakarak ağırlıklar belirlenip risk minimize edilir.
   - Risk Parity Portföyü, her varlığın aynı oranda risk taşıdığı bir stratejidir yani yüksek volatilitelye sahip varlıklar daha düşük ağırlıklandırılır.
   - Maximum Diversification Portföyü, en fazla sayıda varlığın getirisinden faydalanırken riskleri mümkün olduğunca dağıtmayı amaçlar.
   - Kısacası EWP çeşitlendirme sağlar, GMVP risksizdir, RPP riski eşitler, MDP de çeşitlendirme sağlar ancak bunlar genellikle getiriye pek bakmaz.
@@ -57,3 +57,4 @@
   - Negatif kaldıraç örneği: 3000 dolar sermaye, -5 kaldıraç, 15000 dolar işlem, %10 düşüş bu durumda 1500 + 3000 = 4500 dolar yeni bakiye.
   - `Information Ratio`, yatırımın piyasaya göre ne kadar akıllıca iş yaptığını gösteren bir ölçümdür.
   - Özetle, risk alıyorsun ama bu risk sana sürekli yatırım sağlarsa iyidir yoksa şansına güvenip iş yapmak gibidir.
+  - 
