@@ -63,4 +63,6 @@
   - `Winsorization`, veri setindeki uç noktaları bir sınıra eşitler. Ör: Boyu 1.90 üzeri herkesin boyunu 1.90 yaz.
   - `Trimming`, veri setindeki uç noktaları direk siler. Ör: Boyu 1.90 üzeri ve 1.60 altı herkesi gruptan atmak.
 
-
+### Volatilite Kümeleme nedir?
+  - `Volatilite Kümeleme`, volatilite grafiğindeki benzer dalgalanmaları olan dönemleri bir araya getiriyoruz.
+  - 
