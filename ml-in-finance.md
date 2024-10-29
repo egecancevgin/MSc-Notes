@@ -66,4 +66,18 @@
 ### Volatilite Kümeleme, MSRP nedir?
   - `Volatilite Kümeleme`, volatilite grafiğindeki benzer dalgalanmaları olan dönemleri bir araya getirmektir.
   - `Maksimum Sharpe Oranı Portföyü`, hem getiri hem riske bakarak maksimum Sharpe Oranı'nı yakalamaya çalışır.
-  - 
+  - `Inverse Volatilite Portföyü`, volatilitesi düşük senetlere daha çok ağırlık verir, ama getiriyi de dengede tutmaya çalışır.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
