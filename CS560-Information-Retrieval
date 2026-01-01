@@ -10,3 +10,8 @@ Q1: Define two documents as similar and give an information need where the clust
    D1, a news article about Clinton and Sarkozy meeting on climate issues.
    D2, a news article about Clinton and Sarkozy at an international summit.
 
+Q2: Give a 1D example with two clusters where cluster-based retrieval performs worset than nearest neighbor search.
+   Q=5, Cluster A = {0, 1, 2}, luster B = {10, 11, 12}, and one document at position 4.
+   Here, cluster-based retrieval picks A, missing the most relevant doc 4.
+
+
