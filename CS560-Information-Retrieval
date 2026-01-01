@@ -3,10 +3,10 @@ Final Exam Notes:
 
 Hard clustering puts each document into only one cluster, whereas soft clustering lets a document belong to many clusters.
 Scatter-gather is an interactive way of clustering.
-Standard inverted index has term and document table.
-Question 1.
-Define two documents as similar and give an information need where the cluster hypothesis does not hold.
-Information need, find news about the US election.
-D1, a news article about Clinton and Sarkozy meeting on climate issues.
-D2, a news article about Clinton and Sarkozy at an international summit.
+Standard inverted index has term and document table. e.g. mining -> D1, D2
+
+Q1: Define two documents as similar and give an information need where the cluster hypothesis does not hold.
+   IN: Find news about the US election.
+   D1, a news article about Clinton and Sarkozy meeting on climate issues.
+   D2, a news article about Clinton and Sarkozy at an international summit.
 
